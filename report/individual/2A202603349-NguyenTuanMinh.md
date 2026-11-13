@@ -2,7 +2,7 @@
 
 **Cách dùng:** Thay mọi dấu `…` bằng bài làm thật của bạn trước khi nộp link fork trên [LMS](https://aithucchien.vinuni.edu.vn). Giữ nguyên bốn mục và bảng để coach đọc nhanh. Viết ngắn, cụ thể theo ảnh/vùng; không cần thuật ngữ chuyên sâu. Ví dụ trong [hướng dẫn mẫu](../../reports/REPORT_TEMPLATE.md) chỉ giúp hiểu cách điền, không phải câu trả lời để chép lại.
 
-- Mã học viên theo lớp: …
+- Mã học viên theo lớp: 2A202603349
 - Ngày / CVAT local: …
 - Công cụ đã dùng: …
 
@@ -14,7 +14,7 @@ Ghi tên ZIP đúng như file trong `submissions/` và số ảnh đã vẽ, Sav
 
 | Task | File ZIP đúng tên | Hoàn thành mấy ảnh | Điểm tối đa (coach chấm sau) |
 | --- | --- | ---: | ---: |
-| easy_semantic | … | … / 3 | 20 |
+| easy_semantic | easy_semantic.zip| 3 / 3 | 20 |
 | medium_instance | … | … / 3 | 32 |
 | hard_panoptic | … | … / 2 | 30 |
 | cp1_holes | … | … / 1 | 3 |
